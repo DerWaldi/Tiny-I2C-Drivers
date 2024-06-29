@@ -11,5 +11,6 @@
 #define TinyI2CDrivers_h
 
 #include "TinyOLED.h"
+#include "TinyMCP4728.h"
 
 #endif
