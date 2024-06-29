@@ -1,8 +1,8 @@
-# TinyI2C-Drivers Library
+# Tiny-I2C-Drivers Library
 This is a library for connecting different I2C peripherals to a tinyAVR 1-series microcontroller.
 
-## Supported Peripherials
-- SSD1306 based OLED I2C Display 128 x 32 pixels (https://www.az-delivery.de/en/products/0-91-zoll-i2c-oled-display)
+## Supported Peripherals
+- SSD1306 based OLED I2C display 128 x 32 pixels (https://www.az-delivery.de/en/products/0-91-zoll-i2c-oled-display)
 - MCP4728 I2C Quad DAC (https://learn.adafruit.com/adafruit-mcp4728-i2c-quad-dac/overview)
 
 ## Getting Started
