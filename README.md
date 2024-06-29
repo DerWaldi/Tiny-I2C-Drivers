@@ -24,4 +24,4 @@ ATtiny414   |      X     |            |          |
 - [ ] MCP4725 single DAC
 
 ## Credits
-This library is built upon the TinyI2C library by technobolgy: https://github.com/technoblogy/tiny-i2c
+This library is built upon the TinyI2C library by technoblogy: https://github.com/technoblogy/tiny-i2c
