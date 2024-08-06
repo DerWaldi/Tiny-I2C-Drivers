@@ -26,6 +26,7 @@ void loop()
   oled.printStr(Message2); // print message 2
   delay(4000);             // wait 4 seconds
   oled.clear();
+  oled.cursor(0, 0);       // set cursor next line
   oled.printStr(Message3); // print message 3
   oled.cursor(0, 1);       // set cursor next line
   oled.printStr(Message4); // print message 4
